@@ -10,3 +10,4 @@ Github Repository zur Präsentation Neuronale Netze (Linke) im Modul Grundlagen 
 sowie ein paar lesenswerte Artikel und Paper rund um Neuronale Netze:
 - Attention Is All You Need: https://arxiv.org/abs/1706.03762
 - Understanding Neural Networks: [Tensorflow Playground](https://cloud.google.com/blog/products/ai-machine-learning/understanding-neural-networks-with-tensorflow-playground?hl=en)
+- Rechenweg FeedForward und Backpropagation: https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
