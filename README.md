@@ -1,5 +1,7 @@
 # 🧠 DSKI - Neuronale Netze
 
+> " A single neuron in the brain is an incredibly complex machine that even today we don't understand. A single 'neuron' in a neural network is an incredibly simple mathematical function that captures a minuscule fraction of the complexity of a biological neuron." - Andrew Ng, Computer Scientist 
+
 Github Repository zur Präsentation Neuronale Netze (Linke) im Modul Grundlagen Data Science & KI. 
 <br> Neben der [Präsentation] (Link) findet ihr:
 - [Handout] (Link)
