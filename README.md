@@ -8,6 +8,7 @@ Github Repository zur Präsentation Neuronale Netze (Linke) im Modul Grundlagen 
 - [Neuronales Netz from Scratch](https://github.com/janmeuser/DSKI_Neuronale_Netze/blob/951b600ac10919f49f78a4ea6807faa95dfcb398/scratchNet.py)
 
 sowie ein paar lesenswerte Artikel und Paper rund um Neuronale Netze:
-- Attention Is All You Need: https://arxiv.org/abs/1706.03762
-- Understanding Neural Networks: [Tensorflow Playground](https://cloud.google.com/blog/products/ai-machine-learning/understanding-neural-networks-with-tensorflow-playground?hl=en)
-- Rechenweg FeedForward und Backpropagation: https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+- Attention Is All You Need: [Transformer Paper (EN)](https://arxiv.org/abs/1706.03762)
+- Understanding Neural Networks: [Tensorflow Playground (EN)](https://cloud.google.com/blog/products/ai-machine-learning/understanding-neural-networks-with-tensorflow-playground?hl=en)
+- Rechenweg FeedForward und Backpropagation: [Schritt für Schritt Beispiel (EN)](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+- Was sind Neuronale Netze? [Neuronale Netze verstehen (DE)](https://www.tomorrow.bio/de/post/was-sind-neuronale-netze-2023-05-4469138951-ai)
