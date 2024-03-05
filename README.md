@@ -4,7 +4,7 @@
 
 Github Repository zur Präsentation Neuronale Netze (Linke) im Modul Grundlagen Data Science & KI. 
 <br> Neben der [Präsentation] (Link) findet ihr:
-- [Handout] (Link)
+- [Handout](https://github.com/janmeuser/DSKI_Neuronale_Netze/blob/b1c42c3cd89e45e53965b614be15138dec651cc8/Handout-Neuronale-Netze.pdf)
 - [Quellenverzeichnis](https://github.com/janmeuser/DSKI_Neuronale_Netze/blob/cd15be1c23a5f592b4c2fea11842f2d8ad4a9b25/Literaturverzeichnis-Neuronale-Netze.pdf)
 - [Notebook zu Neuronalen Netzen ](https://github.com/janmeuser/DSKI_Neuronale_Netze/blob/b28c850c002d7b58abb62ed771c24cefbaf27002/NN_Example.ipynb)
 - [Neuronales Netz from Scratch](https://github.com/janmeuser/DSKI_Neuronale_Netze/blob/951b600ac10919f49f78a4ea6807faa95dfcb398/scratchNet.py)
